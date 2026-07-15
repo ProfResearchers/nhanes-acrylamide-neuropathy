@@ -1,7 +1,7 @@
 # Hemoglobin Adducts of Acrylamide and Glycidamide and Peripheral Neuropathy in U.S. Adults: NHANES 2003–2004
 
 [![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/YOUR_DOI_HERE.svg)](https://doi.org/10.17605/OSF.IO/YOUR_DOI_HERE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/nhanes-acrylamide-neuropathy/blob/main/NHANES_Acrylamide_Neuropathy_Supplementary_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1szCkJJyJKLOM8VNL9b8But70VBXcJWHP?usp=sharing)
 
 This repository contains the complete, fully reproducible computational pipeline and merged dataset accompanying the manuscript: **"Hemoglobin Adducts of Acrylamide and Glycidamide and Peripheral Neuropathy in U.S. Adults: A Cross-Sectional Analysis of NHANES 2003–2004"**.
 
